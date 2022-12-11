@@ -6,5 +6,5 @@
 |김연호|https://velog.io/@roger345/JS|
 |박주현|https://jh9854.tistory.com/|
 |최병현|https://cbhcbh08005.tistory.com/m/ |
-|최승호|테스트2|
+|최승호|https://velog.io/@100tick|
 |최호열|테스트2|
