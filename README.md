@@ -7,4 +7,4 @@
 |박주현|https://jh9854.tistory.com/|
 |최병현|https://cbhcbh08005.tistory.com/m/ |
 |최승호|https://velog.io/@100tick|
-|최호열|`개설중`|
+|최호열|https://hoooooyeori.tistory.com/|
