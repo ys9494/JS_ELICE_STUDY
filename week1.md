@@ -22,7 +22,7 @@
 |**이름**|**블로그**|
 |----------------|-----------------------|
 |**손유경(스터디장)**| https://momentous-mint-302.notion.site/6fe3286b31744c028e859b3cb39109ef|
-|곽희웅| https://velog.io/@woong12/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-1%EC%9D%BC%EC%B0%A8|
+|곽희웅| https://velog.io/@woong12/JavaScript-Deep-Dive-day-1|
 |김연호| |
 |박주현| https://jh9854.tistory.com/7
 |최병현| |
