@@ -26,7 +26,7 @@
 |김연호| |
 |박주현| |
 |최병현| |
-|최승호| |
+|최승호| https://velog.io/@100tick/JavaScript-1.-Variable|
 |최호열| |
 
 ### :pushpin:DAY2
