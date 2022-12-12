@@ -27,7 +27,7 @@
 |박주현| https://jh9854.tistory.com/7
 |최병현| |
 |최승호| https://velog.io/@100tick/JavaScript-1.-Variable|
-|최호열| |
+|최호열| https://hoooooyeori.tistory.com/6|
 
 ### :pushpin:TUE
 |**이름**|**블로그**|
