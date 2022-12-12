@@ -24,7 +24,7 @@
 |**손유경(스터디장)**| |
 |곽희웅| |
 |김연호| |
-|박주현| |
+|박주현| |https://jh9854.tistory.com/7
 |최병현| |
 |최승호| https://velog.io/@100tick/JavaScript-1.-Variable|
 |최호열| |
