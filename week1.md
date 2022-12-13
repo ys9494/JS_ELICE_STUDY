@@ -32,7 +32,7 @@
 ### :pushpin:TUE
 |**이름**|**블로그**|
 |----------------|-----------------------|
-|**손유경(스터디장)**| |
+|**손유경(스터디장)**| https://www.notion.so/c650fd6335a94af481d31c1bf8cdf84e|
 |곽희웅| https://velog.io/@woong12/JavaScript-day-2|
 |김연호| https://velog.io/@roger345/모던자바스크립트-1일차-변수-표현식과-문|
 |박주현| https://jh9854.tistory.com/8
