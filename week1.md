@@ -38,7 +38,7 @@
 |박주현| https://jh9854.tistory.com/8
 |최병현| |
 |최승호|https://velog.io/@100tick/JavaScript-2.-Data-Types|
-|최호열| |
+|최호열| https://hoooooyeori.tistory.com/7, https://hoooooyeori.tistory.com/8|
 
 ### :pushpin:WED
 |**이름**|**블로그**|
