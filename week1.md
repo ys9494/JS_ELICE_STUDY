@@ -46,7 +46,7 @@
 |**손유경(스터디장)**| https://www.notion.so/792996ff0abe412dbcb05db20e940c87|
 |곽희웅| https://velog.io/@woong12/JavaScript-day-3|
 |김연호| https://velog.io/@roger345/모던자바스크립트-67장-데이터-타입-연산자|
-|박주현| |
+|박주현| https://jh9854.tistory.com/9
 |최병현| |
 |최승호|https://velog.io/@100tick/JavaScript-3.-Operators|
 |최호열| https://hoooooyeori.tistory.com/m/9|
