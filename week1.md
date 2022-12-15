@@ -56,7 +56,7 @@
 |**손유경(스터디장)**| https://www.notion.so/a976c6dea5534ee3bb9e07ce1fea2e2d|
 |곽희웅| https://velog.io/@woong12/JavaScript-day-4|
 |김연호| https://velog.io/@roger345/모던-자바스크립트-8장-제어문|
-|박주현| |
+|박주현| https://jh9854.tistory.com/10
 |최병현| |
 |최승호|https://velog.io/@100tick/JavaScript-4.-Control-Flow|
 |최호열| https://hoooooyeori.tistory.com/10, https://hoooooyeori.tistory.com/11 |
