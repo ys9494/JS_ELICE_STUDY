@@ -59,7 +59,7 @@
 |박주현| |
 |최병현| |
 |최승호|https://velog.io/@100tick/JavaScript-4.-Control-Flow|
-|최호열| https://hoooooyeori.tistory.com/10 |
+|최호열| https://hoooooyeori.tistory.com/10, https://hoooooyeori.tistory.com/11 |
 
 ## ◾ WEEKEND
 
