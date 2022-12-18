@@ -71,7 +71,7 @@
 |김연호| |
 |박주현| |
 |최병현| |
-|최승호|https://velog.io/@100tick/JavaScript-5.-Object|
+|최승호| |
 |최호열| |
 
 ### :pushpin:SUN
