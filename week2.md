@@ -25,7 +25,7 @@ ___
 |박주현| https://jh9854.tistory.com/11|
 |안소영| |
 |최병현| https://cbhcbh08005.tistory.com/m/3
-|최승호| |
+|최승호| https://velog.io/@100tick/JavaScript-5.-Object|
 |최호열| |
 
 
@@ -38,7 +38,7 @@ ___
 |박주현| |
 |안소영| |
 |최병현| |
-|최승호| |
+|최승호| https://velog.io/@100tick/JavaScript-6.-Primitive-VS-Reference|
 |최호열| |
 
 ### :pushpin:TUE
