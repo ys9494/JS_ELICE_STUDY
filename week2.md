@@ -23,7 +23,7 @@ ___
 |곽희웅| https://velog.io/@woong12/JavaScript-day-5|
 |김연호| https://velog.io/@roger345/모던자바스크립트-9장-타입변환과-단축평가|
 |박주현| https://jh9854.tistory.com/11|
-|안소영| |
+|안소영| https://velog.io/@dnfl1245/10장-객체-리터럴모던-자바스크립트
 |최병현| https://cbhcbh08005.tistory.com/m/3
 |최승호| https://velog.io/@100tick/JavaScript-5.-Object|
 |최호열| |
