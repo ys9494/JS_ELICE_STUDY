@@ -50,7 +50,7 @@ ___
 |박주현| |
 |안소영| |
 |최병현| |
-|최승호| |
+|최승호| https://velog.io/@100tick/JavaScript-7.-Function|
 |최호열| |
 
 ### :pushpin:WED
