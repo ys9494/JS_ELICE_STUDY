@@ -39,7 +39,7 @@ ___
 |안소영| |
 |최병현| https://cbhcbh08005.tistory.com/m/4
 |최승호| https://velog.io/@100tick/JavaScript-6.-Primitive-VS-Reference|
-|최호열| |
+|최호열| https://hoooooyeori.tistory.com/12|
 
 ### :pushpin:TUE
 |**이름**|**블로그**|
