@@ -44,7 +44,7 @@ ___
 ### :pushpin:TUE
 |**이름**|**블로그**|
 |----------------|-----------------------|
-|**손유경(스터디장)**| |
+|**손유경(스터디장)**| https://www.notion.so/73a27b099d6c48b1b90d91adc3cdd545|
 |곽희웅| https://velog.io/@woong12/JavaScript-day-7|
 |김연호| https://velog.io/@roger345/모던자바스크립트-13장-스코프|
 |박주현| https://jh9854.tistory.com/14
