@@ -47,7 +47,7 @@ ___
 |**손유경(스터디장)**| |
 |곽희웅| https://velog.io/@woong12/JavaScript-day-7|
 |김연호| https://velog.io/@roger345/모던자바스크립트-13장-스코프|
-|박주현| |
+|박주현| https://jh9854.tistory.com/14
 |안소영| |
 |최병현| |
 |최승호| https://velog.io/@100tick/JavaScript-7.-Function|
