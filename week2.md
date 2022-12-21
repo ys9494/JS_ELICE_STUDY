@@ -59,7 +59,7 @@ ___
 |**손유경(스터디장)**| |
 |곽희웅| https://velog.io/@woong12/JavaScript-day-8|
 |김연호| https://velog.io/@roger345/모던자바스크립트-14장-전역-변수의-문제점|
-|박주현| |
+|박주현| https://jh9854.tistory.com/15
 |안소영| |
 |최병현| |
 |최승호| https://velog.io/@100tick/JavaScript-8.-Scope|
