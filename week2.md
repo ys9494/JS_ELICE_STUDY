@@ -36,7 +36,7 @@ ___
 |곽희웅| https://velog.io/@woong12/JavaScript-day-6|
 |김연호| https://velog.io/@roger345/모던자바스크립트-12장-함수|
 |박주현| https://jh9854.tistory.com/entry/6-%EC%9D%BC%EC%B0%A8-%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-11%EC%9E%A5
-|안소영| |
+|안소영| |https://velog.io/@dnfl1245/11장-원시-값과-객체의-비교
 |최병현| https://cbhcbh08005.tistory.com/m/4
 |최승호| https://velog.io/@100tick/JavaScript-6.-Primitive-VS-Reference|
 |최호열| https://hoooooyeori.tistory.com/12|
