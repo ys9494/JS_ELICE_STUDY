@@ -62,7 +62,7 @@ ___
 |박주현| |
 |안소영| |
 |최병현| |
-|최승호| |
+|최승호| https://velog.io/@100tick/JavaScript-8.-Scope|
 |최호열| |
 
 ### :pushpin:THU
