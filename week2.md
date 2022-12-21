@@ -63,7 +63,7 @@ ___
 |안소영| |
 |최병현| |
 |최승호| https://velog.io/@100tick/JavaScript-8.-Scope|
-|최호열| |
+|최호열| https://hoooooyeori.tistory.com/14|
 
 ### :pushpin:THU
 |**이름**|**블로그**|
