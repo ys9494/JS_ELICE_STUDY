@@ -61,7 +61,7 @@ ___
 |김연호| https://velog.io/@roger345/모던자바스크립트-14장-전역-변수의-문제점|
 |박주현| https://jh9854.tistory.com/15
 |안소영| https://velog.io/@dnfl1245/13장-스코프
-|최병현| |
+|최병현| https://velog.io/@dnfl1245/14장-전역-변수의-문제점
 |최승호| https://velog.io/@100tick/JavaScript-8.-Scope|
 |최호열| https://hoooooyeori.tistory.com/14, https://hoooooyeori.tistory.com/15|
 
