@@ -49,7 +49,7 @@ ___
 |김연호| https://velog.io/@roger345/모던자바스크립트-13장-스코프|
 |박주현| https://jh9854.tistory.com/14
 |안소영| https://velog.io/@dnfl1245/12장-함수
-|최병현| |
+|최병현| https://cbhcbh08005.tistory.com/m/5
 |최승호| https://velog.io/@100tick/JavaScript-7.-Function|
 |최호열| https://hoooooyeori.tistory.com/13|
 
