@@ -72,7 +72,7 @@ ___
 |곽희웅| |
 |김연호| |
 |박주현| |
-|안소영| |
+|안소영| https://velog.io/@dnfl1245/15장-let-const키워드와-블록-레벨-스코프
 |최병현| |
 |최승호| https://velog.io/@100tick/JavaScript-9.-Constructor|
 |최호열| https://hoooooyeori.tistory.com/16|
