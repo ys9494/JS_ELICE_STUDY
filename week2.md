@@ -69,7 +69,7 @@ ___
 |**이름**|**블로그**|
 |----------------|-----------------------|
 |**손유경(스터디장)**| https://momentous-mint-302.notion.site/d9528703b70e4db68ddd6bd2aa01c789|
-|곽희웅| |
+|곽희웅| https://velog.io/@woong12/JavaScript-day-9|
 |김연호| https://velog.io/@roger345/모던자바스크립트-15장-let-const-키워드와-블록-레벨-스코프|
 |박주현| |
 |안소영| https://velog.io/@dnfl1245/15장-let-const키워드와-블록-레벨-스코프
