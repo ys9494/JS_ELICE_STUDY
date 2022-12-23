@@ -1,8 +1,17 @@
-#  :books: WEEK2
+#  :books: WEEK3
 <details>
-  <summary><b>범위 - 필수 16장 ~ 22장</b></summary>
+  <summary><b>범위 - 필수 16장 ~ 23장</b></summary>
   <div markdown="1">
+- 16장: 프로퍼티 어트리뷰트
+- 17장: 생성자 함수에 의한 객체 생성
+- 18장: 함수와 일급 객체
+- 19장: 프로토타입
+- 21장: 빌트인 객체
+- 22장: this
+- 23장: 실행 컨텍스트
 
+읽어보기
+- 20장: strict mode
   </div>
 </details>
 
