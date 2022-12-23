@@ -101,6 +101,6 @@ ___
 |박주현| |
 |안소영| https://velog.io/@dnfl1245/10장-객체-리터럴모던-자바스크립트
 |최병현| |
-|최승호| |
+|최승호| https://velog.io/@100tick/JavaScript-11.-First-Class-Object|
 |최호열| |
 
