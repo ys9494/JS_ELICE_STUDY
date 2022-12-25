@@ -94,7 +94,7 @@
 ### :pushpin:SUN
 |**이름**|**블로그**|
 |----------------|-----------------------|
-|**손유경(스터디장)**| |
+|**손유경(스터디장)**| https://momentous-mint-302.notion.site/3b39a85f568c4101ba48d972a4b64a0d |
 |곽희웅| https://velog.io/@woong12/JavaScript-day-12|
 |김연호| https://velog.io/@roger345/모던자바스크립트-18장-함수와-일급-객체|
 |박주현| https://jh9854.tistory.com/20
