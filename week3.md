@@ -45,7 +45,7 @@
 |----------------|-----------------------|
 |**손유경(스터디장)**| https://www.notion.so/ac143279306e4ee8bc6e24815fb1dd4e|
 |곽희웅| https://velog.io/@woong12/JavaScript-day-14|
-|김연호| |
+|김연호| https://velog.io/@roger345/모던자바스크립트-19장-프로토타입-2|
 |박주현| https://jh9854.tistory.com/23
 |안소영| |
 |최병현| |
