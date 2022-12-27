@@ -34,7 +34,7 @@
 |**손유경(스터디장)**| |
 |곽희웅| https://velog.io/@woong12/JavaScript-day-13|
 |김연호| https://velog.io/@roger345/모던자바스크립트-19장-프로토타입-1|
-|박주현| |
+|박주현| https://jh9854.tistory.com/22
 |안소영| |
 |최병현| |
 |최승호| |
