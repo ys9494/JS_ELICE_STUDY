@@ -47,7 +47,7 @@
 |곽희웅| https://velog.io/@woong12/JavaScript-day-14|
 |김연호| https://velog.io/@roger345/모던자바스크립트-19장-프로토타입-2|
 |박주현| https://jh9854.tistory.com/23
-|안소영| |
+|안소영| https://velog.io/@dnfl1245/18장함수와-일급-객체
 |최병현| |
 |최승호| |
 |최호열| https://hoooooyeori.tistory.com/19, https://hoooooyeori.tistory.com/20|
@@ -59,7 +59,7 @@
 |곽희웅| https://velog.io/@woong12/JavaScript-day-15|
 |김연호| https://velog.io/@roger345/모던자바스크립트-21장-빌트인-객체|
 |박주현| https://jh9854.tistory.com/24
-|안소영| |
+|안소영| https://velog.io/@dnfl1245/19장-프로토타입
 |최병현| |
 |최승호| |
 |최호열| https://hoooooyeori.tistory.com/21|
@@ -86,7 +86,7 @@
 |곽희웅| https://velog.io/@woong12/JavaScript-day-11|
 |김연호| https://velog.io/@roger345/모던자바스크립트-17장-생성자-함수에-의한-객체-생성|
 |박주현| https://jh9854.tistory.com/19
-|안소영| |
+|안소영| https://velog.io/@dnfl1245/21장빌트인-객체
 |최병현| |
 |최승호| |
 |최호열| |
@@ -98,7 +98,7 @@
 |곽희웅| https://velog.io/@woong12/JavaScript-day-12|
 |김연호| https://velog.io/@roger345/모던자바스크립트-18장-함수와-일급-객체|
 |박주현| https://jh9854.tistory.com/20
-|안소영| |
+|안소영| https://velog.io/@dnfl1245/22장-this
 |최병현| |
 |최승호| |
 |최호열| |
