@@ -55,7 +55,7 @@
 ### :pushpin:WED
 |**이름**|**블로그**|
 |----------------|-----------------------|
-|**손유경(스터디장)**| |
+|**손유경(스터디장)**| https://www.notion.so/ac143279306e4ee8bc6e24815fb1dd4e|
 |곽희웅| https://velog.io/@woong12/JavaScript-day-15|
 |김연호| https://velog.io/@roger345/모던자바스크립트-21장-빌트인-객체|
 |박주현| https://jh9854.tistory.com/24
@@ -67,7 +67,7 @@
 ### :pushpin:THU
 |**이름**|**블로그**|
 |----------------|-----------------------|
-|**손유경(스터디장)**| |
+|**손유경(스터디장)**| https://www.notion.so/5077b3143d744b3c8ea378248ab555a3|
 |곽희웅| https://velog.io/@woong12/JavaScript-day-16|
 |김연호| https://velog.io/@roger345/모던자바스크립트-22장-this|
 |박주현| |
