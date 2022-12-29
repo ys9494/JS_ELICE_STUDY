@@ -22,7 +22,7 @@
 |곽희웅| https://velog.io/@woong12/JavaScript-day-10|
 |김연호| https://velog.io/@roger345/모던자바스크립트-16장-프로퍼티-어트리뷰트|
 |박주현| https://jh9854.tistory.com/18
-|안소영| https://velog.io/@dnfl1245/17장생성자-함수에-의한-객체-생성
+|안소영| https://velog.io/@dnfl1245/16장프로퍼티-어트리뷰트
 |최병현| |
 |최승호| |
 |최호열| |
