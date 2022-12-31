@@ -24,7 +24,7 @@
 |박주현| https://jh9854.tistory.com/18
 |안소영| https://velog.io/@dnfl1245/16장프로퍼티-어트리뷰트
 |최병현| |
-|최승호| |
+|최승호| https://velog.io/@100tick/JavaScript-12.-Prototype|
 |최호열| |
 
 
@@ -37,7 +37,7 @@
 |박주현| https://jh9854.tistory.com/22
 |안소영| https://velog.io/@dnfl1245/17장생성자-함수에-의한-객체-생성
 |최병현| |
-|최승호| |
+|최승호| https://velog.io/@100tick/JavaScript-13.-Strict-Mode|
 |최호열| https://hoooooyeori.tistory.com/18|
 
 ### :pushpin:TUE
@@ -49,7 +49,7 @@
 |박주현| https://jh9854.tistory.com/23
 |안소영| https://velog.io/@dnfl1245/18장함수와-일급-객체
 |최병현| |
-|최승호| |
+|최승호| https://velog.io/@100tick/JavaScript-14.-Built-in-Object|
 |최호열| https://hoooooyeori.tistory.com/19, https://hoooooyeori.tistory.com/20|
 
 ### :pushpin:WED
@@ -61,7 +61,7 @@
 |박주현| https://jh9854.tistory.com/24
 |안소영| https://velog.io/@dnfl1245/19장-프로토타입
 |최병현| |
-|최승호| |
+|최승호| https://velog.io/@100tick/JavaScript-this|
 |최호열| https://hoooooyeori.tistory.com/21|
 
 ### :pushpin:THU
