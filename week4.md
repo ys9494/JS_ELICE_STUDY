@@ -31,7 +31,7 @@
 ### :pushpin:MON
 |**이름**|**블로그**|
 |----------------|-----------------------|
-|**손유경(스터디장)**| |
+|**손유경(스터디장)**| https://www.notion.so/parseInt-Number-prototype-toString-d09abd24b0ce4285b00215216a85f9bc|
 |곽희웅| |
 |김연호| https://velog.io/@roger345/모던자바스크립트-26장-ES6-함수의-추가기능|
 |박주현| https://jh9854.tistory.com/27
@@ -43,7 +43,7 @@
 ### :pushpin:TUE
 |**이름**|**블로그**|
 |----------------|-----------------------|
-|**손유경(스터디장)**||
+|**손유경(스터디장)**|https://www.notion.so/ES6-7daa43a306c04d4195c44a5ce6d8f59c|
 |곽희웅| https://velog.io/@woong12/JavaScript-day-18|
 |김연호||
 |박주현| |
