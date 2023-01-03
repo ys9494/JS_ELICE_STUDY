@@ -37,7 +37,7 @@
 |박주현| https://jh9854.tistory.com/27
 |안소영||
 |최병현| |
-|최승호| |
+|최승호| https://velog.io/@100tick/JavaScript-Execution-Context|
 |최호열||
 
 ### :pushpin:TUE
