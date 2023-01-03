@@ -46,7 +46,7 @@
 |**손유경(스터디장)**|https://www.notion.so/ES6-7daa43a306c04d4195c44a5ce6d8f59c|
 |곽희웅| https://velog.io/@woong12/JavaScript-day-18|
 |김연호||
-|박주현| |
+|박주현| https://jh9854.tistory.com/28
 |안소영| |
 |최병현| |
 |최승호| |
