@@ -74,7 +74,7 @@
 |안소영| |
 |최병현| |
 |최승호| |
-|최호열| |
+|최호열| https://hoooooyeori.tistory.com/28|
 
 
 ## ◾ WEEKEND
