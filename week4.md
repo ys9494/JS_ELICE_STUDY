@@ -57,7 +57,7 @@
 |----------------|-----------------------|
 |**손유경(스터디장)**|https://www.notion.so/3c4bd1f7195243d2aeca79466d4c8f84|
 |곽희웅| https://velog.io/@woong12/JavaScript-day-19|
-|김연호||
+|김연호|https://velog.io/@roger345/모던자바스크립트-28장29장30장-Number-Math-Date|
 |박주현| |
 |안소영| https://velog.io/@dnfl1245/26장-this
 |최병현| |
