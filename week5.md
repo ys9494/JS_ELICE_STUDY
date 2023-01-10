@@ -1,6 +1,6 @@
 #  :books: WEEK5
 <details>
-  <summary><b>범위 - 필수 00장 ~ 00장</b></summary>
+  <summary><b>범위 - 필수 34장 ~ 41장</b></summary>
   <div markdown="1">
     <ul>
       <li></li>
@@ -58,7 +58,7 @@
 |**손유경(스터디장)**||
 |곽희웅| |
 |김연호||
-|박주현| |
+|박주현| https://jh9854.tistory.com/33
 |안소영| |
 |최병현| |
 |최승호| |
