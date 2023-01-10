@@ -46,7 +46,7 @@
 |**손유경(스터디장)**||
 |곽희웅| https://velog.io/@woong12/JavaScript-day-23|
 |김연호|https://velog.io/@roger345/모던-자바스크립트-26장-디스트럭처링-할당|
-|박주현| |
+|박주현| https://jh9854.tistory.com/32
 |안소영| |
 |최병현| |
 |최승호| |
